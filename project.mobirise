@@ -58,7 +58,8 @@
       "underlineLink": true,
       "opacity": "99",
       "text": "Read our <a href='Cookies.html'>Cookie Policy</a>."
-    }
+    },
+    "cleanCSS": true
   },
   "pages": {
     "index.html": {
